@@ -38,7 +38,7 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(
       body: Column(
         children: [
-          Text('what the fuck'),
+          Text('random idea'),
           Text(appState.current.asLowerCase),
 
           ElevatedButton(
