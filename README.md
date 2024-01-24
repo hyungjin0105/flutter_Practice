@@ -1,6 +1,6 @@
 # flutter_application_1
 
-A new Flutter project.
+A new Flutter project. I will be using this for my Startup item
 
 ## Getting Started
 
